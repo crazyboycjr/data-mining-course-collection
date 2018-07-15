@@ -1,0 +1,1 @@
+SHA256 (data/pokemon_alopez247.csv) = 225b8c90ac13878d1258bbd07942294a554b1492d018aec33a49099cdca067d9
